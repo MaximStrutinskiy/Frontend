@@ -1,4 +1,4 @@
-# Frontend
+# Frontend (https://proglib.io/p/frontend-youtube-channels/)
 Каналы на английском
 
 Google Developers — инструменты, записи конференций
